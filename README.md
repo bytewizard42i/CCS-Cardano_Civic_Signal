@@ -603,6 +603,19 @@ The next step is to make those identities discoverable, historically accountable
 
 ---
 
+## Special Thanks
+
+This project would not exist without the Cardano community members who identified the real problems and proposed practical solutions. We want to give special thanks to:
+
+- **Phil**, host of **Cardano Over Coffee**, for recognizing that a verified registry could double as the foundation for an emergency communications network, and for championing the pub-sub signal concept
+- **Jenny**, for her continued support and engagement with the Cardano governance community
+- **Orito**, for valuable perspective on decentralized identity and registry design
+- **Satoshi's Bride**, for identifying the core discoverability problem that started this entire conversation, and for consistently advocating for better tools for DReps and SPOs
+
+Cardano Civic Signal is a community-driven concept. These individuals contributed the insight, the questions, and the use cases that shaped the proposal from a single observation into a full coordination framework.
+
+---
+
 ## License
 
 Apache 2.0
