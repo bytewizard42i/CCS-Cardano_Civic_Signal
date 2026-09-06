@@ -572,3 +572,10 @@ Cardano Civic Signal is a community-driven concept. These individuals contribute
 Part of the [DIDzMonolith](https://github.com/bytewizard42i/DIDzMonolith) ecosystem.
 
 </div>
+
+
+## Shared sign-in options
+
+See [the shared sign-in module pointer](SIGN_IN_SELECTIONS.md) for reusable choice
+configuration and this repository's integration boundaries. This documentation
+pointer does not activate authentication.
